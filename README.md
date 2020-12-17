@@ -11,6 +11,6 @@ npm install
 3.运行
 gulp
 
-链接地址：https://silence-y.github.io/Music-Player-qq-/dist/html/
+预览：https://silence-y.github.io/Music-Player-qq-/dist/html/
 
 ![Image text](https://github.com/Silence-Y/Music-Player-qq-/blob/master/player.png)
