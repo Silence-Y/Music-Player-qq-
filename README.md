@@ -5,9 +5,10 @@
 ## 主要功能
 歌曲的播放、暂停、切歌；歌曲列表；图片旋转
 ## Setup
-### 1.下载项目到本地
+1.下载项目到本地
+2.安装依赖
 npm install
-### 2.运行
+3.运行
 gulp
 
 链接地址：https://silence-y.github.io/Music-Player-qq-/dist/html/
