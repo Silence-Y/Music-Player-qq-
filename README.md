@@ -7,9 +7,13 @@
 ## Setup
 1.下载项目到本地
 2.安装依赖
+``` bash
 npm install
+```
 3.运行
+``` bash
 gulp
+```
 
 预览：https://silence-y.github.io/Music-Player-qq-/dist/html/
 
